@@ -22,3 +22,7 @@ Positive Growth Trend: The annual report highlights a remarkable growth trajecto
 Dominance of Women's Clothing: Women's clothing emerges as the powerhouse category, constituting 34.98% of total sales by Adult Women. This dominance suggests a strong demand in this segment, potentially signaling an opportunity for further expansion within women's fashion or exploration of related product lines.
 Regional Focus on Top Performing States: The top five states by sales—Maharashtra, Karnataka, Tamil Nadu, Telangana, and Uttar Pradesh—indicate a strategic focus on the Indian market. While this approach has proven successful, there may be untapped potential in exploring sales opportunities in other regions.
 ![image](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/7af4846c-03e2-4f4d-a617-548a73bf490d)
+
+![dashboard 1](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/244557c5-c9a7-4278-9475-425292fb2352)
+
+![Dashboard 2](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/1222095c-ba3a-4951-be84-fcf86e5e4201)
