@@ -4,7 +4,7 @@ Explore our e-commerce sales analysis project showcasing robust growth, with a f
 
 
 
-                                                                      Project Objective
+                                                     Project Objective
 The objective of this e-commerce sales data analysis project is to derive actionable insights and strategic recommendations by thoroughly examining the provided dataset. The project aims to achieve the following key objectives:
 Sales Performance Analysis: Evaluate and analyze the sales data to identify patterns, trends, and key performance indicators (KPIs) in terms of products, channels, and customer demographics.
 Customer Behavior Study: Understand customer behavior based on factors such as gender, age groups, and purchasing patterns to tailor marketing strategies and enhance customer engagement.
