@@ -14,7 +14,7 @@ Geographical Analysis: Explore regional variations in sales, shipping, and custo
 ![image](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/0b6aaaac-2ad5-4111-9c4d-0ff2a383a58f)
 
                                                          Insight's
-                                                         ![image](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/ca69ff9d-d246-49bb-92cf-d246a6d0f685)
+![transfrom-data-actionable-insights](https://github.com/Bhati0078/E-Commerce-Project-Excel/assets/145791369/c19ca7ec-141a-48f4-973f-44c519e21e87)
 
 Positive Growth Trend: The annual report highlights a remarkable growth trajectory in both revenue and sales over the past year. With total sales reaching 2000 million and monthly sales consistently exceeding 150 million, these figures underscore the store's robust performance and sustained upward momentum.
 Dominance of Women's Clothing: Women's clothing emerges as the powerhouse category, constituting 34.98% of total sales by Adult Women. This dominance suggests a strong demand in this segment, potentially signaling an opportunity for further expansion within women's fashion or exploration of related product lines.
